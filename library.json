@@ -1,0 +1,66 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication_year": "1925",
+    "genre": "Fiction: 📖 A classic American novel that captures the extravagance and tragedy of the 1920s. It explores themes of love, ambition, and social status, making it a timeless read.",
+    "read_status": "false",
+    "added_data": "2025-03-11 10:40:23"
+  },
+  {
+    "title": "Aag Ka Darya",
+    "author": "Qurratulain Hyder",
+    "publication_year": "1959",
+    "genre": "Historical Fiction: 🔥 This epic novel spans over centuries, exploring the history of the Indian subcontinent from the Buddhist era to the Partition of India. A masterpiece of Urdu literature, it deeply examines culture, philosophy, and identity.",
+    "read_status": "true",
+    "added_data": "2025-03-12 14:22:10"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": "1949",
+    "genre": "Dystopian Fiction: 👁️ A chilling depiction of a totalitarian world where surveillance, propaganda, and absolute power control society. This novel raises deep questions about freedom and authoritarian rule.",
+    "read_status": "false",
+    "added_data": "2025-03-13 09:15:45"
+  },
+  {
+    "title": "Raja Gidh",
+    "author": "Bano Qudsia",
+    "publication_year": "1981",
+    "genre": "Psychological Fiction: 🦅 A thought-provoking novel that explores the impact of love, obsession, and the concept of 'halal' and 'haram' in shaping human psychology. A must-read for those interested in deep philosophical discussions.",
+    "read_status": "true",
+    "added_data": "2025-03-10 18:30:55"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication_year": "1960",
+    "genre": "Fiction / Legal Drama: ⚖️ A powerful novel that tackles themes of racial injustice and morality in the American South. The character of Atticus Finch remains one of the most inspiring figures in literature.",
+    "read_status": "false",
+    "added_data": "2025-03-08 12:05:37"
+  },
+  {
+    "title": "Umrao Jan Ada",
+    "author": "Mirza Hadi Ruswa",
+    "publication_year": "1899",
+    "genre": "Historical Fiction / Biography: 💃 A beautifully written novel about the life of Umrao Jan, a courtesan from 19th-century Lucknow. It provides a deep insight into the culture, traditions, and struggles of that era.",
+    "read_status": "true",
+    "added_data": "2025-03-09 16:42:11"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publication_year": "1813",
+    "genre": "Romance / Social Commentary: ❤️ A timeless romance novel that explores love, class, and social expectations through the sharp-witted Elizabeth Bennet and the enigmatic Mr. Darcy.",
+    "read_status": "false",
+    "added_data": "2025-03-07 20:15:29"
+  },
+  {
+    "title": "Zavia",
+    "author": "Ashfaq Ahmed",
+    "publication_year": "1997",
+    "genre": "Philosophy / Inspirational: 🌿 A collection of Ashfaq Ahmed’s thought-provoking conversations and wisdom on life, love, and humanity. This book offers deep insights and life lessons that stay with you forever.",
+    "read_status": "true",
+    "added_data": "2025-03-06 08:30:50"
+  }
+]
