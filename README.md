@@ -32,5 +32,7 @@ Display All Books: Show all books in the library in a formatted way.
 ## Display Statistics:
 
 Total number of books in the library.
+
 Percentage of books that have been read.
+
 Exit: Exit the program.
